@@ -1,0 +1,4 @@
+# Ignore IP2Location database
+*.BIN
+data/*.BIN
+spark/data/*.BIN
